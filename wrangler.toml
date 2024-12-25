@@ -5,22 +5,22 @@ name = "DONASI" # todo
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 [[routes]]
-pattern ="xyoru.xyz"
+pattern ="xaillastore.my.id"
 custom_domain = true
 [[routes]]
-pattern ="ava.game.naver.com.xyoru.xyz"
+pattern ="ava.game.naver.xaillastore.my.id"
 custom_domain = true
 [[routes]]
-pattern ="support.zoom.us.xyoru.xyz"
+pattern ="support.zoom.us.xaillastore.my.id"
 custom_domain = true
 [[routes]]
-pattern ="zoomgov.socifiles.com.xyoru.xyz"
+pattern ="zoomgov.socifiles.com.xaillastore.my.id"
 custom_domain = true
 [[routes]]
-pattern ="cvc-deo.shopeemobile.com.xyoru.xyz"
+pattern ="cvc-deo.shopeemobile.com.xaillastore.my.id"
 custom_domain = true
 [[routes]]
-pattern ="m.instagram.com.xyoru.xyz"
+pattern ="m.instagram.com.xaillastore.my.id"
 custom_domain = true
 
 [vars]
